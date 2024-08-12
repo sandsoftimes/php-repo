@@ -26,4 +26,5 @@ echo DATA;
 const __Hello="Mikel";
 echo "<br>";
 echo __Hello;
+// print_r($_COOKIE);
 ?>
